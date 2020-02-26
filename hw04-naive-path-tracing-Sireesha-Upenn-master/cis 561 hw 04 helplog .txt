@@ -1,0 +1,5 @@
+﻿Helplog : 
+https://www.scratchapixel.com/lessons/3d-basic-rendering/global-illumination-path-tracing
+
+
+Most of the stuff from textbook haha
